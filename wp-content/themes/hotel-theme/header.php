@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html> <?php language_atributes (); ?> </html>
 
 <head>
     <meta charset="UTF-8">
